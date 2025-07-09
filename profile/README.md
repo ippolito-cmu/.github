@@ -1,8 +1,5 @@
 # 👋 Welcome to ippolito-cmu!
 
-![GitHub Org's stars](https://img.shields.io/github/stars/ippolito-cmu?style=social)
-![GitHub followers](https://img.shields.io/github/followers/ippolito-cmu?style=social)
-
 Research projects from [Daphne Ippolito's](https://www.daphnei.com/) lab at Carnegie Mellon University's [Language Technologies Institute](https://lti.cmu.edu/). 
 
 *Last updated: July 2025*
