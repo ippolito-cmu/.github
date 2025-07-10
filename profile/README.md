@@ -22,8 +22,13 @@ Research projects from [Daphne Ippolito's](https://www.daphnei.com/) lab at Carn
 **"Human-Aligned Chess With a Bit of Search"**  
 *Yiming Zhang, Athul Paul Jacob, Vivian Lai, Daniel Fried, Daphne Ippolito*   
 [![Paper](https://img.shields.io/badge/ICLR%202025-Conference-blue?style=flat-square)](https://openreview.net/forum?id=bc2H72hGxB)  
-> Introduces Allie, a chess AI using language modeling and time-adaptive search that achieves remarkable skill calibration with only 49 Elo gap on average across players from 1000-2600 Elo.
+> Introduces Allie, a chess AI that learns to *ponder* lke humans with a time-adaptive MCTS algorithm. Achieves state-of-the-art prediction of human behavior and strong skill adaptation against online players from 1000-2600 Elo.
 
+### [pretraining-poisoning](https://github.com/facebookresearch/pretraining-poisoning)
+**"Persistent Pre-Training Poisoning of LLMs"**  
+*Yiming Zhang\*, Javier Rando\*, Ivan Evtimov, Jianfeng Chi, Eric Michael Smith, Nicholas Carlini, Florian Tramèr, Daphne Ippolito*
+[![Paper](https://img.shields.io/badge/ICLR%202025-Conference-blue?style=flat-square)](https://openreview.net/forum?id=eiqrnVaeIw)  
+> Shows that 0.1\% poisoning of LLM's pre-training data persists after alignment (SFT and DPO), and an attacker can achieve various goals such as denial-of-service, context extraction and belief manipulation with access to pre-training data alone.
 
 ### [novelty-bench/novelty-bench](https://github.com/novelty-bench/novelty-bench)
 **"NoveltyBench: Evaluating Creativity and Diversity in Language Models"**  
