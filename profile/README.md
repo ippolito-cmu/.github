@@ -37,6 +37,12 @@ Research projects from [Daphne Ippolito's](https://www.daphnei.com/) lab at Carn
 [![Website](https://img.shields.io/badge/website-novelty--bench.github.io-A394BC)](https://novelty-bench.github.io)  
 > Benchmark for measuring how well language models generate multiple diverse, high-quality responses to queries involving subjectivity, randomness, and creativity. Evaluates 20+ frontier models including GPT-4o, Claude 3.5 Sonnet, and Gemini 2.0 Pro.
 
+### [CIE](https://github.com/ippolito-cmu/CIE)
+**"CIE: Controlling Language Model Text Generations Using Continuous Signals"**  
+*Vinay Samuel, Harshita Diddee, Yiming Zhang, Daphne Ippolito*  
+[![Paper](https://img.shields.io/badge/EMNLP%202025-Conference%20Paper-lightblue)](https://arxiv.org/abs/2505.13448)  
+> Continuous control signal approach for controlling attributes in LM outputs. Experiments ran for response word count attribute but designed to be extended to other attributes as well. We show stronger control of desired word count compared to previous approaches including prompting approaches.
+
 ### [Command-V](https://github.com/ippolito-cmu/Command-V)
 **"Command-V: Pasting LLM Behaviors via Activation Profiles"**  
 *Barry Wang, Avi Schwarzschild, Alexander Robey, Ali Payani, Charles Fleming, Mingjie Sun, Daphne Ippolito*  
